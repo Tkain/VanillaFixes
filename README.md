@@ -6,7 +6,11 @@ This pack is currently built for the latest stable release of Minecraft: Java Ed
 
 ## Fixes and Changes
 
-*(None yet!)*
+This pack fixes the following issues:
+
+### Texture/Model Issues
+
+* [MC-2614](https://bugs.mojang.com/browse/MC-2614) - Chest walking/breaking particles use mismatched textures
 
 ## License
 
