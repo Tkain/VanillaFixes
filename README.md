@@ -13,6 +13,7 @@ This pack fixes the following issues:
 ### Texture/Model Issues
 
 * [MC-2614](https://bugs.mojang.com/browse/MC-2614) - Chest walking/breaking particles use mismatched textures
+* [MC-57935](https://bugs.mojang.com/browse/MC-57935) - Upside-down stairs have their top and bottom textures flipped
 
 ## License
 
