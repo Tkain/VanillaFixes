@@ -24,6 +24,7 @@ This pack fixes the following issues:
 * [MC-194950](https://bugs.mojang.com/browse/MC-194950) - Potted cacti's cactus texture is vertically squished
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
+* [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 
 ## License
 
