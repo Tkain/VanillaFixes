@@ -14,6 +14,7 @@ This pack fixes the following issues:
 
 * [MC-2614](https://bugs.mojang.com/browse/MC-2614) - Chest walking/breaking particles use mismatched textures
 * [MC-57935](https://bugs.mojang.com/browse/MC-57935) - Upside-down stairs have their top and bottom textures flipped
+* [MC-68302](https://bugs.mojang.com/browse/MC-68302) - Multiple blocks are inconsistently shaded
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
 
