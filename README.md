@@ -17,6 +17,7 @@ This pack fixes the following issues:
 * [MC-68302](https://bugs.mojang.com/browse/MC-68302) - Multiple blocks are inconsistently shaded
 * [MC-99930](https://bugs.mojang.com/browse/MC-99930) - Two of the brewing stand's arms retract inward without a bottle
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
+* [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
 
