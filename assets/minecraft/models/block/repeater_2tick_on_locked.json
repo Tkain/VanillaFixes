@@ -22,7 +22,6 @@
         {   "from": [ 2, 2, 8 ],
             "to": [ 14, 4, 10 ],
             "faces": {
-                "down":  { "uv": [ 7, 2,  9, 14 ], "texture": "#lock", "rotation": 90 },
                 "up":    { "uv": [ 7, 2,  9, 14 ], "texture": "#lock", "rotation": 90 },
                 "north": { "uv": [ 2, 7, 14,  9 ], "texture": "#lock" },
                 "south": { "uv": [ 2, 7, 14,  9 ], "texture": "#lock" },
