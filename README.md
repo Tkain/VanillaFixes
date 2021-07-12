@@ -19,6 +19,8 @@ This pack fixes the following issues:
 * [MC-162803](https://bugs.mojang.com/browse/MC-162803) - Lily pads' texture is mirrored
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
+* [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
+* [MC-194950](https://bugs.mojang.com/browse/MC-194950) - Potted cacti's cactus texture is vertically squished
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
 
