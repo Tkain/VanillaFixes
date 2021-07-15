@@ -23,6 +23,7 @@ This pack fixes the following issues:
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
 * [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
 * [MC-194950](https://bugs.mojang.com/browse/MC-194950) - Potted cacti's cactus texture is vertically squished
+* [MC-203483](https://bugs.mojang.com/browse/MC-203483) - Pumpkin stem and attached melon stem textures not updated with texture update
 * [MC-205095](https://bugs.mojang.com/browse/MC-205095) - Surface of cauldron liquid not visible when submerged
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
 * [MC-213797](https://bugs.mojang.com/browse/MC-213797) - Large dripleaves phase through their stems when bent
