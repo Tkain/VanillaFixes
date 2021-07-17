@@ -17,6 +17,7 @@ This pack fixes the following issues:
 * [MC-68302](https://bugs.mojang.com/browse/MC-68302) - Multiple blocks are inconsistently shaded
 * [MC-95103](https://bugs.mojang.com/browse/MC-95103) - Shields are off-center as dropped items and in item frames
 * [MC-99930](https://bugs.mojang.com/browse/MC-99930) - Two of the brewing stand's arms retract inward without a bottle
+* [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Fully grown cocoa pods' top/bottom textures are vertically stretched
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
 * [MC-162803](https://bugs.mojang.com/browse/MC-162803) - Lily pads' texture is mirrored
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
