@@ -18,12 +18,14 @@ This pack fixes the following issues:
 * [MC-95103](https://bugs.mojang.com/browse/MC-95103) - Shields are off-center as dropped items and in item frames
 * [MC-99930](https://bugs.mojang.com/browse/MC-99930) - Two of the brewing stand's arms retract inward without a bottle
 * [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Fully grown cocoa pods' top/bottom textures are vertically stretched
+* [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
 * [MC-162803](https://bugs.mojang.com/browse/MC-162803) - Lily pads' texture is mirrored
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
 * [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
 * [MC-194950](https://bugs.mojang.com/browse/MC-194950) - Potted cacti's cactus texture is vertically squished
+* [MC-199238](https://bugs.mojang.com/browse/MC-199238) - Dragon eggs render unneeded faces and don't use `cullface` where possible
 * [MC-203483](https://bugs.mojang.com/browse/MC-203483) - Pumpkin stem and attached melon stem textures not updated with texture update
 * [MC-205095](https://bugs.mojang.com/browse/MC-205095) - Surface of cauldron liquid not visible when submerged
 * [MC-208191](https://bugs.mojang.com/browse/MC-208191) - Cakes with candles render an unneeded face
