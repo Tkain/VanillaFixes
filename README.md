@@ -39,6 +39,7 @@ This pack fixes the following issues:
 
 ### Localization/Subtitle Issues
 
+* [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
 
 ## License

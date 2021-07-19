@@ -1,3 +1,6 @@
 {
-  "subtitles.block.generic.break": "Block breaks"
+  "subtitles.block.generic.break": "Block breaks",
+  "subtitles.entity.turtle.death_baby": "Baby Turtle dies",
+  "subtitles.entity.turtle.hurt_baby": "Baby Turtle hurts",
+  "subtitles.entity.turtle.shamble_baby": "Baby Turtle shambles"
 }
