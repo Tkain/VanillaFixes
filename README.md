@@ -37,6 +37,10 @@ This pack fixes the following issues:
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
 
+### Localization/Subtitle Issues
+
+* [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
+
 ## License
 
 The modifications to default Minecraft assets in this pack are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. Mojang Studios, however, is exempt from this licensing and may use this pack's content however they choose.
