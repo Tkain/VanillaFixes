@@ -1,0 +1,11 @@
+{
+  "entity.zombie.attack_iron_door": {
+    "sounds": [
+      "mob/zombie/metal1",
+      "mob/zombie/metal2",
+      "mob/zombie/metal3"
+    ],
+    "subtitle": "subtitles.entity.zombie.attack_iron_door",
+    "replace": true
+  }
+}
