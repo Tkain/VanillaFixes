@@ -42,6 +42,7 @@ This pack fixes the following issues:
 * [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
 * [MC-195836](https://bugs.mojang.com/browse/MC-195836) - Certain subtitles use incorrect tense/format
+* [MC-204050](https://bugs.mojang.com/browse/MC-204050) - Hitting amethyst block with projectile is imprecisely subtitled
 * [MC-206439](https://bugs.mojang.com/browse/MC-206439) - Fishing bobber is referred to inconsistently across various subtitles
 * [MC-221696](https://bugs.mojang.com/browse/MC-221696) - Generic long falling subtitle is in past tense, unlike other subtitles
 * [MC-225314](https://bugs.mojang.com/browse/MC-225314) - Ender chest opening/closing subtitle refers to chests instead of ender chests
