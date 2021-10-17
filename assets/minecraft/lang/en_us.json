@@ -6,6 +6,8 @@
   "subtitles.entity.armor_stand.fall": "Armor Stand falls",
   "subtitles.entity.armor_stand.hit": "Armor Stand hit",
   "subtitles.entity.armor_stand.place": "Armor Stand placed",
+  "subtitles.entity.fishing_bobber.retrieve": "Fishing Bobber retrieved",
+  "subtitles.entity.fishing_bobber.throw": "Fishing Bobber thrown",
   "subtitles.entity.turtle.death_baby": "Baby Turtle dies",
   "subtitles.entity.turtle.hurt_baby": "Baby Turtle hurts",
   "subtitles.entity.turtle.shamble_baby": "Baby Turtle shambles",
