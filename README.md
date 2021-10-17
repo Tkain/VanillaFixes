@@ -42,6 +42,7 @@ This pack fixes the following issues:
 * [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
 * [MC-206439](https://bugs.mojang.com/browse/MC-206439) - Fishing bobber is referred to inconsistently across various subtitles
+* [MC-221696](https://bugs.mojang.com/browse/MC-221696) - Generic long falling subtitle is in past tense, unlike other subtitles
 * [MC-226770](https://bugs.mojang.com/browse/MC-226770) - Zombie banging on iron door noise *(unused)* is imprecisely subtitled
 * [MC-226772](https://bugs.mojang.com/browse/MC-226772) - Shulker box opening/closing subtitle refers to shulkers instead of shulker boxes
 * [MC-226773](https://bugs.mojang.com/browse/MC-226773) - Armor stand placing/hitting/breaking sounds use generic subtitles
