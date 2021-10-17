@@ -113,6 +113,20 @@
     "subtitle": "subtitles.block.candle.extinguish",
     "replace": true
   },
+  "block.ender_chest.close": {
+    "sounds": [
+      "block/enderchest/close"
+    ],
+    "subtitle": "subtitles.block.ender_chest.close",
+    "replace": true
+  },
+  "block.ender_chest.open": {
+    "sounds": [
+      "block/enderchest/open"
+    ],
+    "subtitle": "subtitles.block.ender_chest.open",
+    "replace": true
+  },
   "entity.armor_stand.break": {
     "sounds": [
       "entity/armorstand/break1",
