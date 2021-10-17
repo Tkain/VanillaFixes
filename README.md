@@ -48,6 +48,7 @@ This pack fixes the following issues:
 * [MC-226772](https://bugs.mojang.com/browse/MC-226772) - Shulker box opening/closing subtitle refers to shulkers instead of shulker boxes
 * [MC-226773](https://bugs.mojang.com/browse/MC-226773) - Armor stand placing/hitting/breaking sounds use generic subtitles
 * [MC-226774](https://bugs.mojang.com/browse/MC-226774) - Armor stand falling subtitle is imprecise
+* [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
 
 ## License
 
