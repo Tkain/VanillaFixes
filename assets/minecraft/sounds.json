@@ -1,4 +1,34 @@
 {
+  "entity.armor_stand.break": {
+    "sounds": [
+      "entity/armorstand/break1",
+      "entity/armorstand/break2",
+      "entity/armorstand/break3",
+      "entity/armorstand/break4"
+    ],
+    "subtitle": "subtitles.entity.armor_stand.break",
+    "replace": true
+  },
+  "entity.armor_stand.hit": {
+    "sounds": [
+      "entity/armorstand/hit1",
+      "entity/armorstand/hit2",
+      "entity/armorstand/hit3",
+      "entity/armorstand/hit4"
+    ],
+    "subtitle": "subtitles.entity.armor_stand.hit",
+    "replace": true
+  },
+  "entity.armor_stand.place": {
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "subtitles.entity.armor_stand.place",
+    "replace": true
+  },
   "entity.zombie.attack_iron_door": {
     "sounds": [
       "mob/zombie/metal1",
