@@ -54,6 +54,7 @@ This pack fixes the following issues:
 * [MC-226773](https://bugs.mojang.com/browse/MC-226773) - Armor stand placing/hitting/breaking sounds use generic subtitles
 * [MC-226774](https://bugs.mojang.com/browse/MC-226774) - Armor stand falling subtitle is imprecise
 * [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
+* [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
 
 ## License
 
