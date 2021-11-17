@@ -42,6 +42,7 @@ This pack fixes the following issues:
 
 * [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-186148](https://bugs.mojang.com/browse/MC-186148) - Death message for item-holding Wither's skulls is untranslated
+* [MC-186851](https://bugs.mojang.com/browse/MC-186851) - Death message for being stung by item-holding bee is untranslated
 * [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
 * [MC-195836](https://bugs.mojang.com/browse/MC-195836) - Certain subtitles use incorrect tense/format
 * [MC-204050](https://bugs.mojang.com/browse/MC-204050) - Hitting amethyst block with projectile is imprecisely subtitled
