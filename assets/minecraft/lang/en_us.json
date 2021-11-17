@@ -1,4 +1,5 @@
 {
+  "death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
   "subtitles.block.amethyst_block.hit": "Amethyst pings",
   "subtitles.block.anvil.land": "Anvil lands",
   "subtitles.block.candle.extinguish": "Candle extinguishes",
