@@ -32,6 +32,7 @@ This pack fixes the following issues:
 * [MC-219843](https://bugs.mojang.com/browse/MC-219843) - The dirt part of mycelium's side texture differs from other variations of dirt
 * [MC-221851](https://bugs.mojang.com/browse/MC-221851) - Tilted dripleaves are mirrored incorrectly from below
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
+* [MC-224433](https://bugs.mojang.com/browse/MC-224433) - Fast clouds' texture background isn't fully transparent
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
 
