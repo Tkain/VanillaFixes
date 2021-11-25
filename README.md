@@ -2,7 +2,7 @@
 
 A resource pack for Minecraft which aims to fix many of the bugs and issues present in the game's default assets, ranging from texture errors and inconsistencies, model issues, sound event problems, and even typos in the game's text to the many other overlooked details in Minecraft's assets.
 
-This pack is currently built for the latest stable release of Minecraft: Java Edition, which is currently 1.17.1. Text fixes are only complete in English (EN-US), although translations are welcome.
+This pack is currently built for the latest stable release of Minecraft: Java Edition, which is currently 1.18. Text fixes are only complete in English (EN-US), although translations are welcome.
 
 *Although Vanilla Fixes tries to be as widely compatible with resource packs as possible, certain changes may need to be made to packs to ensure full compatibility. Please analyze the changes made by Vanilla Fixes carefully when using it with your own pack.*
 
@@ -20,11 +20,9 @@ This pack fixes the following issues:
 * [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Fully grown cocoa pods' top/bottom textures are stretched
 * [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
-* [MC-162803](https://bugs.mojang.com/browse/MC-162803) - Lily pads' texture is mirrored
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
 * [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
-* [MC-194950](https://bugs.mojang.com/browse/MC-194950) - Potted cacti's cactus texture is vertically squished
 * [MC-199238](https://bugs.mojang.com/browse/MC-199238) - Dragon eggs render unneeded faces and don't use `cullface` where possible
 * [MC-203483](https://bugs.mojang.com/browse/MC-203483) - Pumpkin stem and attached melon stem textures not updated with texture update
 * [MC-205095](https://bugs.mojang.com/browse/MC-205095) - Surface of cauldron liquid not visible when submerged
@@ -35,7 +33,6 @@ This pack fixes the following issues:
 * [MC-221851](https://bugs.mojang.com/browse/MC-221851) - Tilted dripleaves are mirrored incorrectly from below
 * [MC-222943](https://bugs.mojang.com/browse/MC-222943) - Candle wicks have incorrect and inconsistent mirroring behavior
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
-* [MC-226711](https://bugs.mojang.com/browse/MC-226711) - Fully-grown carrot texture contains erroneous dark pixel
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
 
 ### Localization/Subtitle Issues
