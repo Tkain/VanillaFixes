@@ -1,4 +1,5 @@
 {
+  "advancements.adventure.play_jukebox_in_meadows.description": "Make the Meadows come alive with the sound of music from a Jukebox",
   "advancements.adventure.trade_at_world_height.description": "Trade with a Villager at the build height limit",
   "death.attack.sting.item": "%1$s was stung to death using %2$s",
   "death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
