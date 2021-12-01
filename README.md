@@ -54,6 +54,7 @@ This pack fixes the following issues:
 * [MC-226774](https://bugs.mojang.com/browse/MC-226774) - Armor stand falling subtitle is imprecise
 * [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
 * [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
+* [MC-237924](https://bugs.mojang.com/browse/MC-237924) - "Villager" is improperly capitalized in 'Star Trader' advancement description
 * [MC-241326](https://bugs.mojang.com/browse/MC-241326) - Thomas Guimbretière's name is duplicated and misspelled in the credits
 * [MC-241725](https://bugs.mojang.com/browse/MC-241725) - An opening parenthesis is missing before Riley Manns' name in the credits
 * [MC-241730](https://bugs.mojang.com/browse/MC-241730) - A closing parenthesis is missing after Konrad Jówko's name in the credits
