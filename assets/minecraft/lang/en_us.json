@@ -3,6 +3,7 @@
   "advancements.adventure.trade_at_world_height.description": "Trade with a Villager at the build height limit",
   "death.attack.sting.item": "%1$s was stung to death using %2$s",
   "death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
+  "narration.recipe": "Recipe for %s",
   "options.fovEffectScale.tooltip": "Controls how much the field of view can change with player effects.",
   "subtitles.block.amethyst_block.hit": "Amethyst pings",
   "subtitles.block.anvil.land": "Anvil lands",
