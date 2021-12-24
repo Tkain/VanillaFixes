@@ -20,6 +20,7 @@ This pack fixes the following issues:
 * [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Fully grown cocoa pods' top/bottom textures are stretched
 * [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
+* [MC-165503](https://bugs.mojang.com/browse/MC-165503) - Fence gates next to walls aren't affected by ambient occlusion
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
 * [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
@@ -36,6 +37,7 @@ This pack fixes the following issues:
 * [MC-224433](https://bugs.mojang.com/browse/MC-224433) - Fast clouds' texture background isn't fully transparent
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
+* [MC-238734](https://bugs.mojang.com/browse/MC-238734) - Fence gates render unneeded faces and don't use `cullface` where possible
 
 ### Localization/Subtitle Issues
 
