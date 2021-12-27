@@ -27,6 +27,8 @@
   "subtitles.entity.fishing_bobber.throw": "Fishing Bobber thrown",
   "subtitles.entity.generic.big_fall": "Something falls",
   "subtitles.entity.llama.swag": "Llama gets decorated",
+  "subtitles.entity.minecart.inside": "Minecart rumbles",
+  "subtitles.entity.minecart.inside.underwater": "Minecart burbles",
   "subtitles.entity.turtle.death_baby": "Baby Turtle dies",
   "subtitles.entity.turtle.hurt_baby": "Baby Turtle hurts",
   "subtitles.entity.turtle.shamble_baby": "Baby Turtle shambles",

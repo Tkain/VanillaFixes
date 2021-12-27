@@ -175,6 +175,22 @@
     "subtitle": "subtitles.entity.armor_stand.place",
     "replace": true
   },
+  "entity.minecart.inside": {
+    "sounds": [
+      "minecart/inside"
+    ],
+    "subtitle": "subtitles.entity.minecart.inside",
+    "replace": true
+  },
+  "entity.minecart.inside.underwater": {
+    "sounds": [
+      "minecart/inside_underwater1",
+      "minecart/inside_underwater2",
+      "minecart/inside_underwater3"
+    ],
+    "subtitle": "subtitles.entity.minecart.inside.underwater",
+    "replace": true
+  },
   "entity.zombie.attack_iron_door": {
     "sounds": [
       "mob/zombie/metal1",
