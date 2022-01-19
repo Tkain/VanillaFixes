@@ -43,6 +43,7 @@ This pack fixes the following issues:
 
 * [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-177078](https://bugs.mojang.com/browse/MC-177078) - Minecart riding noise lacks subtitles
+* [MC-184681](https://bugs.mojang.com/browse/MC-184681) - Single biome world customization screen still refer to 'buffet' worlds
 * [MC-186148](https://bugs.mojang.com/browse/MC-186148) - Death message for item-holding Wither's skulls is untranslated
 * [MC-186851](https://bugs.mojang.com/browse/MC-186851) - Death message for being stung by item-holding bee is untranslated
 * [MC-193753](https://bugs.mojang.com/browse/MC-193753) - Respawn anchor ambient sound subtitle *(unused)* refers to it as a portal
@@ -59,6 +60,7 @@ This pack fixes the following issues:
 * [MC-226773](https://bugs.mojang.com/browse/MC-226773) - Armor stand placing/hitting/breaking sounds use generic subtitles
 * [MC-226774](https://bugs.mojang.com/browse/MC-226774) - Armor stand falling subtitle is imprecise
 * [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
+* [MC-222876](https://bugs.mojang.com/browse/MC-222876) - Buffet (single biome) world customization screen title is inconsistently capitalized
 * [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
 * [MC-237922](https://bugs.mojang.com/browse/MC-237922) - "Jukebox" is improperly capitalized in 'Sound of Music' advancement description
 * [MC-237924](https://bugs.mojang.com/browse/MC-237924) - "Villager" is improperly capitalized in 'Star Trader' advancement description
