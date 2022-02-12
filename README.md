@@ -38,6 +38,7 @@ This pack fixes the following issues:
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
 * [MC-238734](https://bugs.mojang.com/browse/MC-238734) - Fence gates render unneeded faces and don't use `cullface` where possible
+* [MC-248583](https://bugs.mojang.com/browse/MC-248583) - Iron golem's vines don't line up between body and arms
 
 ### Localization/Subtitle Issues
 
