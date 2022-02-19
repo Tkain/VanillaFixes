@@ -39,6 +39,7 @@ This pack fixes the following issues:
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
 * [MC-238242](https://bugs.mojang.com/browse/MC-238242) - Minimized inventory effect panels have an extra pixel in their corners
 * [MC-238734](https://bugs.mojang.com/browse/MC-238734) - Fence gates render unneeded faces and don't use `cullface` where possible
+* [MC-246459](https://bugs.mojang.com/browse/MC-246459) - Drowned's body texture contains transparent pixels
 * [MC-248583](https://bugs.mojang.com/browse/MC-248583) - Iron golem's vines don't line up between body and arms
 
 ### Localization/Subtitle Issues
