@@ -74,6 +74,7 @@ This pack fixes the following issues:
 * [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
 * [MC-235064](https://bugs.mojang.com/browse/MC-235064) - "Singleplayer" is misspelled in Realms world download dialogue
 * [MC-237590](https://bugs.mojang.com/browse/MC-237590) - "Chunks" is improperly capitalized in options menu render/simulation distance sliders
+* [MC-237920](https://bugs.mojang.com/browse/MC-237920) - "Feels Like Home" advancement title is improperly capitalized
 * [MC-237922](https://bugs.mojang.com/browse/MC-237922) - "Jukebox" is improperly capitalized in 'Sound of Music' advancement description
 * [MC-237924](https://bugs.mojang.com/browse/MC-237924) - "Villager" is improperly capitalized in 'Star Trader' advancement description
 * [MC-241326](https://bugs.mojang.com/browse/MC-241326) - Thomas Guimbretière's name is duplicated and misspelled in the credits
