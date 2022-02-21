@@ -55,6 +55,7 @@ This pack fixes the following issues:
 * [MC-186851](https://bugs.mojang.com/browse/MC-186851) - Death message for being stung by item-holding bee is untranslated
 * [MC-193753](https://bugs.mojang.com/browse/MC-193753) - Respawn anchor ambient sound subtitle *(unused)* refers to it as a portal
 * [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle is in past tense, unlike other subtitles
+* [MC-195781](https://bugs.mojang.com/browse/MC-195781) - "Include Entities" is improperly capitalized in structure block menu
 * [MC-195836](https://bugs.mojang.com/browse/MC-195836) - Certain subtitles use incorrect tense/format
 * [MC-204050](https://bugs.mojang.com/browse/MC-204050) - Hitting amethyst block with projectile is imprecisely subtitled
 * [MC-204124](https://bugs.mojang.com/browse/MC-204124) - Underwater minecart riding noise lacks subtitles

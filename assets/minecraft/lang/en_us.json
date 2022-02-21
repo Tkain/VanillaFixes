@@ -7,6 +7,7 @@
   "narration.recipe": "Recipe for %s",
   "options.chunks": "%s Chunks",
   "options.fovEffectScale.tooltip": "Controls how much the field of view can change with player effects.",
+  "structure_block.include_entities": "Include Entities:",
   "subtitles.block.amethyst_block.hit": "Amethyst pings",
   "subtitles.block.anvil.land": "Anvil lands",
   "subtitles.block.candle.extinguish": "Candle extinguishes",
