@@ -38,6 +38,7 @@ This pack fixes the following issues:
 * [MC-224433](https://bugs.mojang.com/browse/MC-224433) - Fast clouds' texture background isn't fully transparent
 * [MC-225796](https://bugs.mojang.com/browse/MC-225796) - Deepslate random rotation behavior is inconsistent across axes
 * [MC-232251](https://bugs.mojang.com/browse/MC-232251) - Attached melon/pumpkin stem models are asymmetric
+* [MC-238070](https://bugs.mojang.com/browse/MC-238070) - Brewing stands' arms are disconnected from their bases
 * [MC-238242](https://bugs.mojang.com/browse/MC-238242) - Minimized inventory effect panels have an extra pixel in their corners
 * [MC-238734](https://bugs.mojang.com/browse/MC-238734) - Fence gates render unneeded faces and don't use `cullface` where possible
 * [MC-246459](https://bugs.mojang.com/browse/MC-246459) - Drowned's body texture contains transparent pixels
