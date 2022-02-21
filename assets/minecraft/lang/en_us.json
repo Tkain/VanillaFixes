@@ -5,6 +5,7 @@
   "death.attack.sting.item": "%1$s was stung to death using %2$s",
   "death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
   "narration.recipe": "Recipe for %s",
+  "options.chunks": "%s Chunks",
   "options.fovEffectScale.tooltip": "Controls how much the field of view can change with player effects.",
   "subtitles.block.amethyst_block.hit": "Amethyst pings",
   "subtitles.block.anvil.land": "Anvil lands",
