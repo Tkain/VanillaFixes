@@ -63,6 +63,7 @@ This pack fixes the following issues:
 * [MC-218415](https://bugs.mojang.com/browse/MC-218415) - Redstone torch fizzing is imprecisely subtitled
 * [MC-219541](https://bugs.mojang.com/browse/MC-219541) - Horse armor equipping subtitle is improperly capitalized
 * [MC-221696](https://bugs.mojang.com/browse/MC-221696) - Generic long falling subtitle is in past tense, unlike other subtitles
+* [MC-222876](https://bugs.mojang.com/browse/MC-222876) - Buffet (single biome) world customization screen title is inconsistently capitalized
 * [MC-225314](https://bugs.mojang.com/browse/MC-225314) - Ender chest opening/closing subtitle refers to chests instead of ender chests
 * [MC-225837](https://bugs.mojang.com/browse/MC-225837) - "Recipe" is misspelled in recipe description narration
 * [MC-226770](https://bugs.mojang.com/browse/MC-226770) - Zombie banging on iron door noise *(unused)* is imprecisely subtitled
@@ -70,7 +71,6 @@ This pack fixes the following issues:
 * [MC-226773](https://bugs.mojang.com/browse/MC-226773) - Armor stand placing/hitting/breaking sounds use generic subtitles
 * [MC-226774](https://bugs.mojang.com/browse/MC-226774) - Armor stand falling subtitle is imprecise
 * [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
-* [MC-222876](https://bugs.mojang.com/browse/MC-222876) - Buffet (single biome) world customization screen title is inconsistently capitalized
 * [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
 * [MC-231458](https://bugs.mojang.com/browse/MC-231458) - "Netherite Ingot" is improperly capitalized in 'Serious Dedication' advancement description
 * [MC-235064](https://bugs.mojang.com/browse/MC-235064) - "Singleplayer" is misspelled in Realms world download dialogue
