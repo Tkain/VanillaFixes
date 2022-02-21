@@ -72,6 +72,7 @@ This pack fixes the following issues:
 * [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Candle extinguishing subtitle is imprecise
 * [MC-222876](https://bugs.mojang.com/browse/MC-222876) - Buffet (single biome) world customization screen title is inconsistently capitalized
 * [MC-230735](https://bugs.mojang.com/browse/MC-230735) - FOV effects settings slider description is inaccurate
+* [MC-231458](https://bugs.mojang.com/browse/MC-231458) - "Netherite Ingot" is improperly capitalized in 'Serious Dedication' advancement description
 * [MC-235064](https://bugs.mojang.com/browse/MC-235064) - "Singleplayer" is misspelled in Realms world download dialogue
 * [MC-237590](https://bugs.mojang.com/browse/MC-237590) - "Chunks" is improperly capitalized in options menu render/simulation distance sliders
 * [MC-237920](https://bugs.mojang.com/browse/MC-237920) - "Feels Like Home" advancement title is improperly capitalized
