@@ -60,6 +60,7 @@ This pack fixes the following issues:
 * [MC-204050](https://bugs.mojang.com/browse/MC-204050) - Hitting amethyst block with projectile is imprecisely subtitled
 * [MC-204124](https://bugs.mojang.com/browse/MC-204124) - Underwater minecart riding noise lacks subtitles
 * [MC-206439](https://bugs.mojang.com/browse/MC-206439) - Fishing bobber is referred to inconsistently across various subtitles
+* [MC-206548](https://bugs.mojang.com/browse/MC-206548) - "Leash Knot" is improperly capitalized across subtitles
 * [MC-218415](https://bugs.mojang.com/browse/MC-218415) - Redstone torch fizzing is imprecisely subtitled
 * [MC-219541](https://bugs.mojang.com/browse/MC-219541) - Horse armor equipping subtitle is improperly capitalized
 * [MC-221696](https://bugs.mojang.com/browse/MC-221696) - Generic long falling subtitle is in past tense, unlike other subtitles
