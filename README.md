@@ -48,6 +48,7 @@ This pack fixes the following issues:
 * [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are inconsistent in format with other baby animal subtitles
 * [MC-177078](https://bugs.mojang.com/browse/MC-177078) - Minecart riding noise lacks subtitles
 * [MC-177079](https://bugs.mojang.com/browse/MC-177079) - Ghast affectionate scream *(unused)* lacks subtitles
+* [MC-177522](https://bugs.mojang.com/browse/MC-177522) - Wolf panting/whining noises are imprecisely subtitled
 * [MC-184681](https://bugs.mojang.com/browse/MC-184681) - Single biome world customization screen still refer to 'buffet' worlds
 * [MC-186148](https://bugs.mojang.com/browse/MC-186148) - Death message for item-holding Wither's skulls is untranslated
 * [MC-186851](https://bugs.mojang.com/browse/MC-186851) - Death message for being stung by item-holding bee is untranslated

@@ -198,6 +198,22 @@
     "subtitle": "subtitles.entity.minecart.inside.underwater",
     "replace": true
   },
+  "entity.wolf.ambient": {
+    "sounds": [
+      "mob/wolf/bark1",
+      "mob/wolf/bark2",
+      "mob/wolf/bark3"
+    ],
+    "subtitle": "subtitles.entity.wolf.bark",
+    "replace": true
+  },
+  "entity.wolf.whine": {
+    "sounds": [
+      "mob/wolf/whine"
+    ],
+    "subtitle": "subtitles.entity.wolf.whine",
+    "replace": true
+  },
   "entity.zombie.attack_iron_door": {
     "sounds": [
       "mob/zombie/metal1",
