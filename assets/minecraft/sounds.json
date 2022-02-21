@@ -175,6 +175,13 @@
     "subtitle": "subtitles.entity.armor_stand.place",
     "replace": true
   },
+  "entity.ghast.scream": {
+    "sounds": [
+      "mob/ghast/affectionate_scream"
+    ],
+    "subtitle": "subtitles.entity.ghast.scream",
+    "replace": true
+  },
   "entity.minecart.inside": {
     "sounds": [
       "minecart/inside"
