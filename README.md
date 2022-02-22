@@ -18,7 +18,7 @@ This pack fixes the following issues:
 * [MC-95103](https://bugs.mojang.com/browse/MC-95103) - Shields are off-center as dropped items and in item frames
 * [MC-99930](https://bugs.mojang.com/browse/MC-99930) - Two of the brewing stand's arms retract inward without a bottle
 * [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Fully grown cocoa pods' top/bottom textures are stretched
-* [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Bells don't use `cullface` where possible
+* [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Anvils and bells don't use `cullface` where possible
 * [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
 * [MC-160720](https://bugs.mojang.com/browse/MC-160720) - Bedrock layer of End Crystal texture not updated with texture update
