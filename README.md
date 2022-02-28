@@ -2,7 +2,7 @@
 
 A resource pack for Minecraft which aims to fix many of the bugs and issues present in the game's default assets, ranging from texture errors and inconsistencies, model issues, sound event problems, and even typos in the game's text to the many other overlooked details in Minecraft's assets.
 
-This pack is currently built for the latest stable release of Minecraft: Java Edition, which is currently 1.18.1. Text fixes are only complete in English (EN-US), although translations are welcome.
+This pack is currently built for the latest stable release of Minecraft: Java Edition, which is currently 1.18.2. Text fixes are only complete in English (EN-US), although translations are welcome.
 
 *Although Vanilla Fixes tries to be as widely compatible with resource packs as possible, certain changes may need to be made to packs to ensure full compatibility. Please analyze the changes made by Vanilla Fixes carefully when using it with your own pack.*
 
