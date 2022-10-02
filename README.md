@@ -18,6 +18,7 @@ This pack fixes the following issues:
 * [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Anvils, bells, brewing stands, chorus flowers, iron bars, and torches don't use `cullface` where possible
 * [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
+* [MC-150572](https://bugs.mojang.com/browse/MC-150572) - Cacti's bottom texture uses outdated palette
 * [MC-160720](https://bugs.mojang.com/browse/MC-160720) - Bedrock layer of End Crystal texture not updated with texture update
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
