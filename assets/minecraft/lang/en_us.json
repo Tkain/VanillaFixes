@@ -4,6 +4,7 @@
   "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees",
   "createWorld.customize.buffet.title": "Single Biome Customization",
   "options.chunks": "%s Chunks",
+  "options.hideMatchedNames.tooltip": "Third-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
   "structure_block.include_entities": "Include Entities:",
   "subtitles.block.amethyst_block.hit": "Amethyst pings",
   "subtitles.block.anvil.land": "Anvil lands",
@@ -41,5 +42,6 @@
   "subtitles.entity.wolf.bark": "Wolf barks",
   "subtitles.entity.wolf.howl": "Wolf howls",
   "subtitles.entity.wolf.whine": "Wolf whines",
-  "subtitles.entity.zombie.attack_iron_door": "Door clatters"
+  "subtitles.entity.zombie.attack_iron_door": "Door clatters",
+  "title.multiplayer.other": "Multiplayer (Third-party Server)"
 }
