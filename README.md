@@ -78,6 +78,7 @@ This pack fixes the following issues:
 * [MC-241736](https://bugs.mojang.com/browse/MC-241736) - Multiple companies' names are inconsistently spelled in the credits
 * [MC-241803](https://bugs.mojang.com/browse/MC-241803) - "Organizational" is misspelled in the credits
 * [MC-241919](https://bugs.mojang.com/browse/MC-241919) - Middle initial punctuation is inconsistent in the credits
+* [MC-250194](https://bugs.mojang.com/browse/MC-250194) - 'A Complete Catalog' advancement title uses the British spelling of "catalog"
 
 ## License
 
