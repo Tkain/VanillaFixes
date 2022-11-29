@@ -80,6 +80,7 @@ This pack fixes the following issues:
 * [MC-241919](https://bugs.mojang.com/browse/MC-241919) - Middle initial punctuation is inconsistent in the credits
 * [MC-250194](https://bugs.mojang.com/browse/MC-250194) - 'A Complete Catalog' advancement title uses the British spelling of "catalog"
 * [MC-250197](https://bugs.mojang.com/browse/MC-250197) - 'Bee Our Guest' advancement description refers to glass bottle inconsistently to other advancements
+* [MC-250968](https://bugs.mojang.com/browse/MC-250968) - Goat horn breaking subtitle refers to item instead of entity as sound source
 
 ## License
 
