@@ -79,6 +79,7 @@ This pack fixes the following issues:
 * [MC-241803](https://bugs.mojang.com/browse/MC-241803) - "Organizational" is misspelled in the credits
 * [MC-241919](https://bugs.mojang.com/browse/MC-241919) - Middle initial punctuation is inconsistent in the credits
 * [MC-250194](https://bugs.mojang.com/browse/MC-250194) - 'A Complete Catalog' advancement title uses the British spelling of "catalog"
+* [MC-250197](https://bugs.mojang.com/browse/MC-250197) - 'Bee Our Guest' advancement description refers to glass bottle inconsistently to other advancements
 
 ## License
 
