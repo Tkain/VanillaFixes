@@ -82,6 +82,7 @@ This pack fixes the following issues:
 * [MC-250197](https://bugs.mojang.com/browse/MC-250197) - 'Bee Our Guest' advancement description refers to glass bottle inconsistently to other advancements
 * [MC-250968](https://bugs.mojang.com/browse/MC-250968) - Goat horn breaking subtitle refers to item instead of entity as sound source
 * [MC-251754](https://bugs.mojang.com/browse/MC-251754) - "Third-party" is inconsistently spelled throughout game text
+* [MC-252408](https://bugs.mojang.com/browse/MC-252408) - 'Chat disabled by account settings' message lacks a period
 
 ## License
 
