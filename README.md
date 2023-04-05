@@ -18,10 +18,12 @@ This pack fixes the following issues:
 * [MC-109087](https://bugs.mojang.com/browse/MC-109087) - Anvils, bells, brewing stands, chorus flowers, iron bars, and torches don't use `cullface` where possible
 * [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Dragon egg texture is partially squished by model
 * [MC-122701](https://bugs.mojang.com/browse/MC-122701) - Sunflower heads are stretched relative to their texture
+* [MC-137957](https://bugs.mojang.com/browse/MC-137957) - Sandstone and red sandstone walls use their side texture on their top and bottom
 * [MC-150572](https://bugs.mojang.com/browse/MC-150572) - Cacti's bottom texture uses outdated palette
 * [MC-160720](https://bugs.mojang.com/browse/MC-160720) - Bedrock layer of End Crystal texture not updated with texture update
 * [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Redstone repeaters render unneeded faces
 * [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Redstone comparators render unneeded faces
+* [MC-182383](https://bugs.mojang.com/browse/MC-182383) - Blackstone walls use their side texture on their top and bottom
 * [MC-183421](https://bugs.mojang.com/browse/MC-183421) - Bell stands' textures are stretched
 * [MC-194192](https://bugs.mojang.com/browse/MC-194192) - Potted cacti have a different bottom texture than other flower pots
 * [MC-198202](https://bugs.mojang.com/browse/MC-198202) - Options & world creation menu background textures don't match regular dirt texture
