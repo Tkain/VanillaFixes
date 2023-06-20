@@ -44,6 +44,7 @@ This pack fixes the following issues:
 * [MC-244789](https://bugs.mojang.com/browse/MC-244789) - Checkboxes' backgrounds are inconsistent
 * [MC-248583](https://bugs.mojang.com/browse/MC-248583) - Iron golem's vines don't line up between body and arms
 * [MC-249682](https://bugs.mojang.com/browse/MC-249682) - Piglin snout pattern can be seen on the back of banners
+* [MC-250692](https://bugs.mojang.com/browse/MC-250692) - Mud brick blocks' textures do not align with those of their slab/stair/wall counterparts
 * [MC-260888](https://bugs.mojang.com/browse/MC-260888) - Recipe book button's appearance is inconsistent between menus
 
 ### Localization/Subtitle Issues
