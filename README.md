@@ -43,6 +43,7 @@ This pack fixes the following issues:
 * [MC-238734](https://bugs.mojang.com/browse/MC-238734) - Fence gates render unneeded faces and don't use `cullface` where possible
 * [MC-244789](https://bugs.mojang.com/browse/MC-244789) - Checkboxes' backgrounds are inconsistent
 * [MC-248583](https://bugs.mojang.com/browse/MC-248583) - Iron golem's vines don't line up between body and arms
+* [MC-260888](https://bugs.mojang.com/browse/MC-260888) - Recipe book button's appearance is inconsistent between menus
 
 ### Localization/Subtitle Issues
 
