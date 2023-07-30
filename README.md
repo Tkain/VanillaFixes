@@ -46,6 +46,7 @@ This pack fixes the following issues:
 * [MC-249682](https://bugs.mojang.com/browse/MC-249682) - Piglin snout pattern can be seen on the back of banners
 * [MC-250692](https://bugs.mojang.com/browse/MC-250692) - Mud brick blocks' textures do not align with those of their slab/stair/wall counterparts
 * [MC-260888](https://bugs.mojang.com/browse/MC-260888) - Recipe book button's appearance is inconsistent between menus
+* [MC-261551](https://bugs.mojang.com/browse/MC-261551) - Smithing tables' hammer graphic is partially stretched
 
 ### Localization/Subtitle Issues
 
